@@ -56,7 +56,7 @@ Dataset size: ~1000 retail transactions
 - Power BI
 - Data Visualization
 - DAX Measures
-- Data Analysis
+- Data Cleaning 
 
 ## Dataset
 
