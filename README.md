@@ -1,8 +1,9 @@
 # Retail Sales & Profitability Analysis Dashboard
+This project analyzes supermarket retail transaction data to uncover insights related to sales performance, profitability, customer purchasing behavior, and payment trends.
 
-This project analyzes supermarket retail transactions to understand sales performance, profitability, and customer purchasing behavior.  
-The dashboard was built in Power BI to identify key business insights such as top performing branches, best selling product categories, and preferred payment methods.
+Using Power BI, the dashboard was designed to help stakeholders identify high-performing product categories, profitable branches, customer preferences, and operational patterns that can support data-driven business decisions.
 
+The analysis focuses on key business metrics such as revenue, profit, product demand, payment behavior, and branch-level performance.
 ## Business Problem
 
 Retail businesses generate large volumes of transaction data, but without proper analysis it is difficult to understand which products drive revenue, which branches perform best, and how customers prefer to make payments.
