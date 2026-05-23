@@ -6,17 +6,16 @@ Using Power BI, the dashboard was designed to help stakeholders identify high-pe
 The analysis focuses on key business metrics such as revenue, profit, product demand, payment behavior, and branch-level performance.
 ## Business Problem
 
-Retail businesses generate large volumes of transaction data, but without proper analysis it is difficult to understand which products drive revenue, which branches perform best, and how customers prefer to make payments.
+Retail businesses generate large volumes of transactional data every day, but without proper analysis it becomes difficult to identify which products drive profitability, which branches perform best, and how customer purchasing behavior impacts business performance.
 
-This project analyzes supermarket sales data to answer key business questions such as:
+This project analyzes supermarket sales data to answer important business questions such as:
 
 - Which branch generates the highest profit?
-- Which product categories sell the most?
-- How do customers prefer to pay for purchases?
-- What is the overall profitability of the business?
-
-These insights can help businesses improve product strategy, sales planning, and operational decisions.
-
+- Which product categories contribute most to sales?
+- What payment methods are preferred by customers?
+- Which product lines perform best across locations?
+- How profitable is the business overall?
+  
 ## Project Overview
 
 The analysis focuses on understanding sales and profit patterns across product categories, branches, and payment methods using Power BI visualizations.
